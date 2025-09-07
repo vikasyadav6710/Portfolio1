@@ -14,7 +14,8 @@ export default defineConfig({
       'http://www.vikashyadav.space',
       'https://www.vikashyadav.space',
       'http://vikashyadav.space',
-      'vikashyadav.space', // Add the specific host here
+      'vikashyadav.space',
+      'https://rao-portfolio.netlify.app/', // Add the specific host here
     ]
   }
 })
