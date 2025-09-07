@@ -11,7 +11,9 @@ export default defineConfig({
       'devserver-main--rao-portfolio.netlify.app',
       'rao-portfolio.netlify.app',
       'https://vikashyadav.space/',
-      'https://www.vikashyadav.space/' // Add the specific host here
+      'https://www.vikashyadav.space/',
+      'http://vikashyadav.space/',
+      'vikashyadav.space/', // Add the specific host here
     ]
   }
 })
