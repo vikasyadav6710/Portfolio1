@@ -135,12 +135,16 @@ export const SkillsInfo = [
       role: "IT Analyst",
       company: "Tata Consultancy Services Pvt. Ltd.",
       date: "December 2021 - Present",
-      desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
+      desc: "•	Experience in Analysis, Design, Development and Implementation of web, stand-alone, client-server applications."
++"•	Integrated API’s from various back-end services."+
+"•	Developed high quality interface components and ensured its robustness."+
+"•	Creating reusable UI components for efficient development.",
       skills: [
         "HTML",
         "CSS",
         "JavaScript",
         "React JS",
+        "Angular",
         "TypeScript",
         // "Node JS",
         "React-Bootstrap",
@@ -155,7 +159,9 @@ export const SkillsInfo = [
       role: "Member of Technical Staff",
       company: "NEC",
       date: "July 1 - December 2021",
-      desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
+      desc: "•	Interfaced with cross-functional team of business analysts, developers and technical support professionals to determine comprehensive list of requirement specifications for new applications"
++ "•	Design Web pages with HTML, CSS, Bootstrap."+
+"•	Created charts using High-Chart.",
       skills: [
         "Angular",
         "RxJS",
@@ -173,16 +179,15 @@ export const SkillsInfo = [
       role: "Software Developer",
       company: "Open Access Technology Pvt. Ltd.",
       date: "April 2018 - July 2021",
-      desc: "Worked as a Frontend Developer Intern, designing and implementing scalable UI components and responsive websites using HTML, CSS, JavaScript, Bootstrap, and Material UI. Collaborated with the design team to translate wireframes and prototypes from Figma into interactive, user-friendly web pages.",
+      desc: "Worked as a full Stack Developer Intern, designing and implementing scalable UI components and responsive websites using HTML, CSS, JavaScript, Bootstrap, and Material UI. Collaborated with the design team to translate wireframes and prototypes from Figma into interactive, user-friendly web pages.",
       skills: [
+        "Ext JS",
         "HTML",
         "CSS",
         "Javascript",
-        "Ext JS",
+        "DotNet Core",
         "Figma",
-        "Material UI",
         "Sencha",
-        "dotnet core",
         "SQL Server"
       ],
     },
